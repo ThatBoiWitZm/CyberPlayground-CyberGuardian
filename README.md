@@ -30,3 +30,5 @@ Documentation:
 Include comprehensive documentation on how to set up the platform, create challenges, and contribute to the project.
 
 A CTF platform not only provides a fun and engaging environment for cybersecurity enthusiasts but also serves as a valuable educational resource for learning and honing practical skills.
+
+Property of CyberGuardian Inc.
