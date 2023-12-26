@@ -1,4 +1,7 @@
-Hacker's Playground - Capture The Flag Platform
+CyberPlayground - Capture The Flag Platform
+
+Set Release: Q3 2024
+
 Description:
 Create an advanced Capture The Flag (CTF) platform for cybersecurity enthusiasts to practice and enhance their skills in a realistic and gamified environment. The platform will host a variety of challenges, ranging from web exploitation and cryptography to binary analysis and network security.
 
@@ -24,10 +27,7 @@ Deployment:
 Deploy the CTF platform on a cloud provider like AWS, Google Cloud, or Azure. Consider using Docker containers for easy deployment and scalability.
 
 Contributions:
-Invite the cybersecurity community to contribute challenges, improvements, and additional features to the platform.
-
-Documentation:
-Include comprehensive documentation on how to set up the platform, create challenges, and contribute to the project.
+Inviting the cybersecurity community to contribute challenges, improvements, and additional features to the platform.
 
 A CTF platform not only provides a fun and engaging environment for cybersecurity enthusiasts but also serves as a valuable educational resource for learning and honing practical skills.
 
