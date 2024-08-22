@@ -7,3 +7,5 @@ def dashboard():
     challenges = Challenge.query.all()
     submissions = Submission.query.filter_by(user_id=current_user.id).all()
     return render_template('dashboard.html', challenges=challenges, submissions=submissions)
+
+## Update 22/08/24

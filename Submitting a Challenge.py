@@ -13,3 +13,5 @@ def submit_flag(challenge_id):
         flash('Incorrect flag. Try again.', 'danger')
 
     return redirect(url_for('dashboard'))
+
+## Update 22/08/24

@@ -6,3 +6,4 @@ def calculate_score(user_id):
         score += submission.challenge.points
 
     return score
+## Update 22/08/24

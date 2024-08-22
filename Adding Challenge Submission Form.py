@@ -28,3 +28,5 @@ def submit_challenge():
         return redirect(url_for('dashboard'))
 
     return render_template('submit_challenge.html', form=form)
+
+## Update 22/08/24
